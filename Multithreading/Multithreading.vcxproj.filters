@@ -18,15 +18,12 @@
     <ClCompile Include="Timer.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="condition_variable_custom_using.cpp">
+    <ClCompile Include="CheckAssignment.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Timer.h">
-      <Filter>Source</Filter>
-    </ClInclude>
-    <ClInclude Include="condition_variable_custom.h">
       <Filter>Source</Filter>
     </ClInclude>
   </ItemGroup>

@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="condition_variable_custom_using.cpp" />
+    <ClCompile Include="CheckAssignment.cpp" />
     <ClCompile Include="Timer.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="condition_variable_custom.h" />
     <ClInclude Include="Timer.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
